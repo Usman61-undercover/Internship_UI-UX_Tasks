@@ -1,27 +1,27 @@
 # Social Connect App — UI/UX Internship Project
-[cite_start]**Organization:** Developer Hub Corporation [cite: 1, 3]
-[cite_start]**Project Duration:** 3 Weeks [cite: 4]
-[cite_start]**Deadline:** 3rd April, 2026 [cite: 45]
+**Organization:** Developer Hub Corporation
+**Project Duration:** 3 Weeks
+**Deadline:** 3rd April, 2026
 
 ## 📌 Project Overview
-[cite_start]The **Social Connect App** is a minimal social media platform designed with a focus on user-friendliness, visual appeal, and responsiveness. [cite_start]This project follows a structured design thinking process to deliver a high-fidelity interactive solution[cite: 4, 30].
+The **Social Connect App** is a minimal social media platform designed with a focus on user-friendliness, visual appeal, and responsiveness. This project follows a structured design thinking process to deliver a high-fidelity interactive solution.
 
 ---
 
 ## 📅 Weekly Milestones & Process
 
-### [cite_start]Week 1: Research and Wireframing [cite: 8]
-* [cite_start]**User Research:** Analyzed target audience needs and researched competitors (Instagram, Twitter, Facebook) for inspiration[cite: 10, 11].
-* [cite_start]**Low-Fidelity Wireframes:** Drafted structural layouts for Sign Up, Home Feed, User Profile, Post Creation, and Settings[cite: 13, 14, 15, 16, 17, 18].
+### Week 1: Research and Wireframing
+* **User Research:** Analyzed target audience needs and researched competitors (Instagram, Twitter, Facebook) for inspiration.
+* **Low-Fidelity Wireframes:** Drafted structural layouts for Sign Up, Home Feed, User Profile, Post Creation, and Settings.
 
-### [cite_start]Week 2: High-Fidelity & Prototyping [cite: 20]
-* [cite_start]**UI Design:** Applied a cohesive color scheme, typography, and intuitive icons to all key screens[cite: 21, 23, 24, 25].
-* [cite_start]**Responsive Design:** Ensured adaptability across mobile and tablet device sizes[cite: 26, 27].
-* [cite_start]**Interactive Prototyping:** Built a clickable prototype to demonstrate seamless transitions and user navigation[cite: 28, 29, 30].
+### Week 2: High-Fidelity & Prototyping
+* **UI Design:** Applied a cohesive color scheme, typography, and intuitive icons to all key screens.
+* **Responsive Design:** Ensured adaptability across mobile and tablet device sizes.
+* **Interactive Prototyping:** Built a clickable prototype to demonstrate seamless transitions and user navigation.
 
-### [cite_start]Week 3: Finalization & Design System [cite: 31]
-* [cite_start]**Accessibility:** Optimized contrast ratios and ensured screen reader compatibility[cite: 32, 33].
-* [cite_start]**Design System Development:** Documented reusable styles and components to ensure design consistency[cite: 34, 35, 38].
+### Week 3: Finalization & Design System
+* **Accessibility:** Optimized contrast ratios and ensured screen reader compatibility.
+* **Design System Development:** Documented reusable styles and components to ensure design consistency.
 
 ---
 
@@ -50,7 +50,7 @@
     * **Body Text:** 15px (Regular 400)
     * **Caption:** 13px (Medium 500)
 
-### [cite_start]Component Library [cite: 38]
+### Component Library
 * **Buttons:** 12px border radius (Pills). Height: 48px (Primary), 40px (Secondary).
 * **Input Fields:** 52px height, 1px `#E0DDD8` border, 12px radius. Includes password eye-toggle.
 * **Settings Rows:** 54px height with 32px icons and navigation chevrons.
@@ -58,7 +58,7 @@
 
 ---
 
-## [cite_start]♿ Accessibility Notes (WCAG AA) [cite: 33]
+## ♿ Accessibility Notes (WCAG AA)
 * **Contrast:** Brand on white (~4.6:1) and Body text (~18:1) pass AA standards.
 * **Touch Targets:** All interactive elements maintain a minimum 44x44px area.
 * **Form Logic:** Labels are placed above inputs; password fields include visibility toggles.
@@ -66,9 +66,9 @@
 
 ---
 
-## [cite_start]🚀 Final Deliverables [cite: 41, 47]
-1. [cite_start]**Figma File:** https://www.figma.com/design/loslJWaseSD0lLASCeqGsr/social-connect-app?node-id=0-1&p=f&t=v9w0T2QHqNIeGF2N-0 [cite: 6, 42]
-2. [cite_start]**Presentation Video:** [Insert Link Here] [cite: 7, 39, 43]
+## 🚀 Final Deliverables
+1. **Figma File:** [https://www.figma.com/design/loslJWaseSD0lLASCeqGsr/social-connect-app?node-id=0-1&p=f&t=v9w0T2QHqNIeGF2N-0](https://www.figma.com/design/loslJWaseSD0lLASCeqGsr/social-connect-app?node-id=0-1&p=f&t=v9w0T2QHqNIeGF2N-0)
+2. **Presentation Video:** [Insert Link Here]
 
-## Accessibility: WCAG AA compliant
-## Submission Date: April 3, 2026
+**Accessibility:** WCAG AA compliant  
+**Submission Date:** April 3, 2026
