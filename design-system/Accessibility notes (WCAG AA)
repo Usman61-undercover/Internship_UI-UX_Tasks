@@ -1,0 +1,12 @@
+Brand on white
+Contrast ratio ~4.6:1 — passes AA for large text
+Body text
+~18:1 — excellent for all text sizes
+Secondary text
+~5.9:1 — passes AA normal text
+All interactive elements min 44x44px touch targets
+Password field has show/hide eye icon toggle
+Form labels placed above inputs, not inside only
+Error states use color + icon (not color alone)
+Bottom nav has visible active state label + icon
+Toggle switch has visible ON/OFF state with color + position
