@@ -68,7 +68,8 @@ The **Social Connect App** is a minimal social media platform designed with a fo
 
 ## 🚀 Final Deliverables
 1. **Figma File:** [https://www.figma.com/design/loslJWaseSD0lLASCeqGsr/social-connect-app?node-id=0-1&p=f&t=v9w0T2QHqNIeGF2N-0](https://www.figma.com/design/loslJWaseSD0lLASCeqGsr/social-connect-app?node-id=0-1&p=f&t=v9w0T2QHqNIeGF2N-0)
-2. **Presentation Video:** [Insert Link Here]
+2. **Figma Prototype Link:** https://www.figma.com/proto/loslJWaseSD0lLASCeqGsr/social-connect-app?node-id=1-2
+3. **Presentation Video:** [Insert Link Here]
 
 **Accessibility:** WCAG AA compliant  
 **Submission Date:** April 3, 2026
