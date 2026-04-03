@@ -67,5 +67,5 @@
 ---
 
 ## [cite_start]🚀 Final Deliverables [cite: 41, 47]
-1. [cite_start]**Figma File:** [Insert Link Here] [cite: 6, 42]
+1. [cite_start]**Figma File:** https://www.figma.com/design/loslJWaseSD0lLASCeqGsr/social-connect-app?node-id=0-1&p=f&t=v9w0T2QHqNIeGF2N-0 [cite: 6, 42]
 2. [cite_start]**Presentation Video:** [Insert Link Here] [cite: 7, 39, 43]
